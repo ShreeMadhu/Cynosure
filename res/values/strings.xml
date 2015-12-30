@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cynosure</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="user_name_heading">USERNAME</string>
+    <string name="user_phone_heading">PHONE NUMBER</string>
+    <string name="sign_up">SIGN UP</string>
+    <string name="sign_up_page_heading">Sign up and chat!!</string>
+    <string name="no_user">Sorry, there are no contacts.</string>
+    <string name="no_chat">Sorry, there are no chats.</string>
+    <string name="contacts">Contacts</string>
+
+</resources>
