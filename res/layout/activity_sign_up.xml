@@ -36,6 +36,7 @@
                 android:inputType="textPersonName"
                 android:maxLines="1"
                 android:padding="10dp"
+                android:textColor="#000000"
                 android:textColorHint="#95A6D4"
                 android:textSize="15sp" />
 
@@ -50,6 +51,7 @@
                 android:inputType="phone"
                 android:maxLength="10"
                 android:padding="10dp"
+                android:textColor="#000000"
                 android:textColorHint="#95A6D4"
                 android:textSize="15sp" />
 
